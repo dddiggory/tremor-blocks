@@ -6,7 +6,7 @@ import { ProgressBar } from '@/components/ProgressBar';
 const data = [
   //array-start
   {
-    name: 'Average tokes per requests',
+    name: 'Average tokens per requests',
     total: '341',
     details: [
       {
