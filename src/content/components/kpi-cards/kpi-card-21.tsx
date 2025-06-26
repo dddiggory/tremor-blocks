@@ -8,7 +8,7 @@ import { CategoryBar } from '@/components/CategoryBar';
 const data = [
   //array-start
   {
-    name: 'Average tokes per requests',
+    name: 'Average tokens per requests',
     total: '341',
     split: [136, 205],
     details: [
